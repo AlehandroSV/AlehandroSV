@@ -1,4 +1,4 @@
-### Olá! Eu sou o Aleandro Vidal! 👋
+### Olá! Eu sou o Alehandro Vidal! 👋
 
 - 🔭 Hoje trabalho como FullStack
 - 🌱 Estudo React
