@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Alehandro Vidal! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=38&duration=2500&color=03F700&center=false&vCenter=false&width=440&lines=Alehandro+Vidal;Web+Developer;Full-Stack)](https://git.io/typing-svg)
+
 - 🔭 Hoje trabalho como FullStack
 - 🌱 Estudo React
 - 💬 Contate-me no e-mail: alehandrosantos99@gmail.com
