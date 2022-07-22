@@ -1,11 +1,10 @@
 ### Olá! Eu sou o Alehandro Vidal! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Libre+Barcode+39+Text&size=38&duration=2500&color=03F700&center=false&vCenter=false&width=440&lines=Alehandro+Vidal;Web+Developer+|+Full-Stack)
+<a href="https://www.linkedin.com/company/82670364/">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+39+Text&size=38&duration=2500&color=37f1cf&center=false&vCenter=true&width=440&lines=Alehandro+Vidal;Full-Stack;CEO+AWD+Soluções)<a>
 
-- 🔭 Hoje trabalho como FullStack
-- 🌱 Estudo React
+- 🔭 Hoje trabalho como FullStack na <a href="https://www.linkedin.com/company/82670364/">AWD Soluções<a>
+- 🌱 Estudo DJango
 - 💬 Contate-me no e-mail: alehandrosantos99@gmail.com
-- 😄 Pronome: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/alehandrosv">
@@ -14,12 +13,15 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt=pic" height="150" style="border-radius:200px;" src="https://i.imgur.com/KLsaEMp.jpg?width=676&height=676">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="DJango" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="right" alt="pic" height="150" src="https://i.imgur.com/KLsaEMp.jpg?width=676&height=676">
 </div>
   
   ##
