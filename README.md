@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alehandro Vidal! 👋
 
-<a href="https://www.linkedin.com/company/82670364/">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+39+Text&size=38&duration=2500&color=37f1cf&center=false&vCenter=true&width=440&lines=Alehandro+Vidal;Full-Stack;Dev+AWD+Soluções)<a>
+<a href="https://www.linkedin.com/company/82670364/">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+39+Text&size=38&duration=2500&color=37f1cf&center=false&vCenter=true&width=440&lines=Alehandro+Vidal;Full-Stack;Dev+AWD+Soluções;Web+Developer+UaiFire)<a>
 
 - 🔭 Hoje trabalho como FullStack na <a href="https://www.linkedin.com/company/82670364/">AWD Soluções<a>
 - 🌱 Estudo DJango
