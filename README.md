@@ -1,15 +1,31 @@
-### Olá! Eu sou o Alehandro Vidal! 👋
+<h1 align="center">Olá! Eu sou o Alehandro Vidal! 👋</h1>
+<h3 align="center">Web Developer and Software Enginner Full-Stack | Python | JavaScript | DJango | React</h3>
 
-<a href="https://www.linkedin.com/company/82670364/">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+39+Text&size=38&duration=2500&color=37f1cf&center=false&vCenter=true&width=440&lines=Alehandro+Vidal;Full-Stack;Dev+AWD+Soluções;Web+Developer+UaiFire)<a>
+<br/>
 
-- 🔭 Hoje trabalho como FullStack na <a href="https://www.linkedin.com/company/82670364/">AWD Soluções<a>
-- 🌱 Estudo React Native
-- 💬 Contate-me no e-mail: alehandrosantos99@gmail.com
+<a href="https://www.linkedin.com/company/82670364/">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster+39+Text&size=38&duration=2500&color=37f1cf&center=false&vCenter=true&width=440&lines=Alehandro+Vidal;Dev+Full-Stack;)<a>
+  
+<p align="left"> <a href="https://twitter.com/vidalalehandro" target="blank"><img src="https://img.shields.io/twitter/follow/vidalalehandro?logo=twitter&style=for-the-badge" alt="vidalalehandro" /></a> </p>
+
+- 🔭 Atualmente estou trabalhando em [News Island](<private project>)
+
+- 🌱 No momento estou aprendendo **React Native**
+
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/AlehandroSV](https://github.com/AlehandroSV)
+
+- 💬 Pergunte-me sobre **JavaScript, Python, React, DJango...**
+
+- 📫 Como chegar até mim **alehandrosv.contato@gmail.com**
+
+- 📄 Conheça minhas experiências [https://github.com/AlehandroSV](https://github.com/AlehandroSV)
+  
+<br/>
 
 <div align="center">
   <a href="https://github.com/alehandrosv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alehandrosv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehandrosv&layout=compact&langs_count=7&theme=dracula"/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alehandrosv&theme=dracula" alt="alehandrosv" /></p>
 </div>
   
 <div style="display: inline_block"><br>
