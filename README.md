@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Alehandro Vidal! 👋</h1>
-<h3 align="center">Web Developer and Software Enginner Full-Stack | Python | JavaScript | DJango | React</h3>
+<h3 align="center">Web Developer and Software Enginner Full-Stack | JavaScript# | C# | .Net | React/React Native</h3>
 
 <br/>
 
