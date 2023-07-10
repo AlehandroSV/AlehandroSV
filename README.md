@@ -9,15 +9,15 @@
 
 - 🔭 Atualmente estou trabalhando em [News Island](<private project>)
 
-- 🌱 No momento estou aprendendo **React Native**
+- 🌱 No momento estou aprendendo **Vue**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/AlehandroSV](https://github.com/AlehandroSV)
 
-- 💬 Pergunte-me sobre **JavaScript, Python, React, DJango...**
+- 💬 Pergunte-me sobre **JavaScript, TypeScript, C#, React, React Native, .Net, ...**
 
 - 📫 Como chegar até mim **alehandrosv.contato@gmail.com**
 
-- 📄 Conheça minhas experiências [https://github.com/AlehandroSV](https://github.com/AlehandroSV)
+- 📄 Conheça melhor sobre mim [https://www.linkedin.com/in/alehandrosv](https://github.com/AlehandroSV](https://www.linkedin.com/in/alehandrosv)
   
 <br/>
 
