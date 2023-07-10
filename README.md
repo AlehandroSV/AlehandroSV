@@ -17,7 +17,7 @@
 
 - 📫 Como chegar até mim **alehandrosv.contato@gmail.com**
 
-- 📄 Conheça melhor sobre mim [https://www.linkedin.com/in/alehandrosv](https://github.com/AlehandroSV](https://www.linkedin.com/in/alehandrosv)
+- 📄 Conheça melhor sobre mim [https://www.linkedin.com/in/alehandrosv](https://www.linkedin.com/in/alehandrosv)
   
 <br/>
 
