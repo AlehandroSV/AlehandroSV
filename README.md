@@ -7,7 +7,7 @@
   
 <p align="left"> <a href="https://twitter.com/vidalalehandro" target="blank"><img src="https://img.shields.io/twitter/follow/vidalalehandro?logo=twitter&style=for-the-badge" alt="vidalalehandro" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [ReactorModel]
+- 🔭 Atualmente estou trabalhando em **ReactorModel**
 
 - 🌱 No momento estou aprendendo **Rust**
 
