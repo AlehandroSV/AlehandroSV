@@ -7,13 +7,11 @@
   
 <p align="left"> <a href="https://twitter.com/vidalalehandro" target="blank"><img src="https://img.shields.io/twitter/follow/vidalalehandro?logo=twitter&style=for-the-badge" alt="vidalalehandro" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em [News Island](<private project>)
+- 🔭 Atualmente estou trabalhando em [ReactorModel]
 
-- 🌱 No momento estou aprendendo **Vue**
+- 🌱 No momento estou aprendendo **Rust**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/AlehandroSV](https://github.com/AlehandroSV)
-
-- 💬 Pergunte-me sobre **JavaScript, TypeScript, C#, React, React Native, .Net, ...**
 
 - 📫 Como chegar até mim **alehandrosv.contato@gmail.com**
 
